@@ -13,7 +13,6 @@ A simple and responsive Tic Tac Toe game built using **HTML, CSS, and JavaScript
 - Simple and clean UI
 
 ## 🛠️ Technologies Used
-
 - HTML5
 - CSS3
 - JavaScript
@@ -34,9 +33,6 @@ tictactoe/
 2. Open `hello.html` in your browser.
 3. Enjoy playing!
 
-## 📸 Screenshot
-
-_Add a screenshot of your game here._
 
 ## 📚 What I Learned
 
